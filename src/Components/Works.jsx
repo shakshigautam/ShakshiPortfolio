@@ -29,17 +29,10 @@ const projects = [
     description:
       "An accounting web application built to manage financial records efficiently, with a responsive interface.",
     technologies: ["React", "JavaScript", "JSX"],
-    github: "https://github.com/shakshigautam/LekhaDekha",
+    github: "https://github.com/shakshigautam/lekha-dekha-landing-page",
     live: "https://lekha-dekha-landing-page.vercel.app/",
   },
-  {
-    title: "Himalayan",
-    description:
-      "A tourism website created for Himalayan, a travel company, showcasing destinations and travel services.",
-    technologies: ["React", "JavaScript", "JSX"],
-    github: "https://github.com/shakshigautam/Himalayan",
-    live: "https://himalayan-xi.vercel.app/",
-  },
+  
 ];
 
 const designs = [
@@ -62,10 +55,7 @@ const Works = () => {
   return (
     <section id="works" className="flex flex-col items-center text-center py-24 px-6 bg-gray-50">
       <h1 className="text-4xl font-bold mb-4">My Portfolio</h1>
-      <span className="text-lg max-w-4xl mb-16 text-gray-700">
-        I pay attention to detail and deliver high-quality projects.
-      </span>
-
+      
       {/* React Projects Section */}
       <div className="w-full max-w-6xl mb-20">
         <h2 className="text-3xl font-semibold text-left mb-8">React Projects</h2>

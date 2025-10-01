@@ -28,7 +28,7 @@ const Intro = () => {
           and frameworks to grow as a developer.
       </p>
         <Link
-          to="contactPage"
+          to="contact"
           smooth
           duration={500}
           className="mt-4 inline-block bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition"

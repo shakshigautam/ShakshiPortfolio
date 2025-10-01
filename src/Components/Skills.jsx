@@ -27,9 +27,7 @@ const Skills = () => {
       className="flex flex-col items-center text-center py-24 px-6 bg-gray-100"
     >
       <h1 className="text-4xl font-bold mb-4">Skills</h1>
-      <span className="text-lg max-w-2xl mb-12 text-gray-700">
-        I am a passionate web developer who focuses on creating great digital experiences.
-      </span>
+     
 
       <div className="grid md:grid-cols-2 gap-8 w-full max-w-4xl">
         {skills.map((skill, index) => (
