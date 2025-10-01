@@ -17,6 +17,14 @@ const projects = [
     live: "https://sms-livid-sigma.vercel.app/",
   },
   {
+    title: "Weather Website",
+    description:
+      "A simple and responsive weather app that shows real-time weather details for any city with a clean, modern interface.",
+    technologies: ["React", "JavaScript", "JSX"],
+    github: "https://github.com/shakshigautam/Weather-website",
+    live: "https://weather-website-smoky-nu.vercel.app/",
+  },
+  {
     title: "Lekha Dekha",
     description:
       "An accounting web application built to manage financial records efficiently, with a responsive interface.",
