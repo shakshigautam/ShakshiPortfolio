@@ -23,7 +23,7 @@ const skills = [
 const Skills = () => {
   return (
     <section
-      id="about"
+      id="skills"
       className="flex flex-col items-center text-center py-24 px-6 bg-gray-100"
     >
       <h1 className="text-4xl font-bold mb-4">Skills</h1>

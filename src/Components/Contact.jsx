@@ -7,7 +7,7 @@ import { FiMail, FiPhone } from "react-icons/fi";
 const Contact = () => {
   return (
     <section
-      id="contactPage"
+      id="contact"
       className="flex flex-col items-center text-center py-24 px-6 bg-gray-50"
     >
       <h1 className="text-4xl font-bold mb-4">Contact Me</h1>
